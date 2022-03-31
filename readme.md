@@ -11,10 +11,8 @@ Bug Report: https://discord.com/channels/859947586005368862/859949054393974786/9
 ## In-Game Example
 ![example clans](example.png)
 
-Supported Admin / Recruiter privileges: 
 
-
-## How does it works?
+## How does it work?
 1. Clan Admins & Recruiters one of the clans below, enter **Parkour_Hub** and give a new player a rank.
     https://streamable.com/eawm22
 2. The player's rank will be saved automatically.
@@ -33,6 +31,12 @@ Supported Admin / Recruiter privileges:
 
 ## Maintenance
 Due to Data storage limitations, the current script is willing to support up to 30 different Clan rankings. As a notable Krunker Clan owner/administrator, please contact  `blandrice#8363` for interest in integrating your clan ranks into this script.
+
+- All images.png work as clan badges (but simpler is better!)
+- Admins / Recruiters can be assigned for your clan
+    
+    - Admins can give / remove your Clan's ranks from anyone
+    - Recruiters can give / remove your Clan's lowest rank (member status) from anyone
 
 
 ```
