@@ -13,7 +13,10 @@ Bug Report: https://discord.com/channels/859947586005368862/859949054393974786/9
 
 Due to Data storage limitations, the current script is willing to support up to 30 different Clan rankings. As a notable Krunker Clan owner/administrator, please contact  `blandrice#8363` for interest in integrating your clan ranks into this script.
 
+**27 additional Clan slots available**
+
 ```
+https://krdocs.swatdo.ge/#data-storage
 30 Keys per game, keys length is 20 characters. (Object properties are treated as unique database keys)
 ```
 1. PHIL
